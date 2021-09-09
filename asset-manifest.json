@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/BushraSheeraz01/Pizza-App/static/css/main.9b0807ef.chunk.css",
+    "main.js": "/BushraSheeraz01/Pizza-App/static/js/main.e7f9f684.chunk.js",
+    "main.js.map": "/BushraSheeraz01/Pizza-App/static/js/main.e7f9f684.chunk.js.map",
+    "runtime-main.js": "/BushraSheeraz01/Pizza-App/static/js/runtime-main.33485eab.js",
+    "runtime-main.js.map": "/BushraSheeraz01/Pizza-App/static/js/runtime-main.33485eab.js.map",
+    "static/css/2.818011ed.chunk.css": "/BushraSheeraz01/Pizza-App/static/css/2.818011ed.chunk.css",
+    "static/js/2.43bc20ce.chunk.js": "/BushraSheeraz01/Pizza-App/static/js/2.43bc20ce.chunk.js",
+    "static/js/2.43bc20ce.chunk.js.map": "/BushraSheeraz01/Pizza-App/static/js/2.43bc20ce.chunk.js.map",
+    "static/js/3.d5b6bbb9.chunk.js": "/BushraSheeraz01/Pizza-App/static/js/3.d5b6bbb9.chunk.js",
+    "static/js/3.d5b6bbb9.chunk.js.map": "/BushraSheeraz01/Pizza-App/static/js/3.d5b6bbb9.chunk.js.map",
+    "index.html": "/BushraSheeraz01/Pizza-App/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/BushraSheeraz01/Pizza-App/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.9b0807ef.chunk.css.map": "/BushraSheeraz01/Pizza-App/static/css/main.9b0807ef.chunk.css.map",
+    "static/js/2.43bc20ce.chunk.js.LICENSE.txt": "/BushraSheeraz01/Pizza-App/static/js/2.43bc20ce.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/BushraSheeraz01/Pizza-App/static/media/spectacle.6138051d.jpg",
+    "static/media/pizza1-bg.65d15d65.jpg": "/BushraSheeraz01/Pizza-App/static/media/pizza1-bg.65d15d65.jpg",
+    "static/media/pizza3.106f4f81.jpg": "/BushraSheeraz01/Pizza-App/static/media/pizza3.106f4f81.jpg",
+    "static/media/pizza4.5a87c2e5.jpg": "/BushraSheeraz01/Pizza-App/static/media/pizza4.5a87c2e5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33485eab.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.43bc20ce.chunk.js",
+    "static/css/main.9b0807ef.chunk.css",
+    "static/js/main.e7f9f684.chunk.js"
+  ]
+}
