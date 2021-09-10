@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/Pizza-App/static/css/main.06f0d32d.chunk.css",
-    "main.js": "/Pizza-App/static/js/main.e7f9f684.chunk.js",
-    "main.js.map": "/Pizza-App/static/js/main.e7f9f684.chunk.js.map",
-    "runtime-main.js": "/Pizza-App/static/js/runtime-main.3617037b.js",
-    "runtime-main.js.map": "/Pizza-App/static/js/runtime-main.3617037b.js.map",
+    "main.js": "/Pizza-App/static/js/main.c38e974c.chunk.js",
+    "main.js.map": "/Pizza-App/static/js/main.c38e974c.chunk.js.map",
+    "runtime-main.js": "/Pizza-App/static/js/runtime-main.369fd668.js",
+    "runtime-main.js.map": "/Pizza-App/static/js/runtime-main.369fd668.js.map",
     "static/css/2.818011ed.chunk.css": "/Pizza-App/static/css/2.818011ed.chunk.css",
-    "static/js/2.43bc20ce.chunk.js": "/Pizza-App/static/js/2.43bc20ce.chunk.js",
-    "static/js/2.43bc20ce.chunk.js.map": "/Pizza-App/static/js/2.43bc20ce.chunk.js.map",
-    "static/js/3.d5b6bbb9.chunk.js": "/Pizza-App/static/js/3.d5b6bbb9.chunk.js",
-    "static/js/3.d5b6bbb9.chunk.js.map": "/Pizza-App/static/js/3.d5b6bbb9.chunk.js.map",
+    "static/js/2.976b0a84.chunk.js": "/Pizza-App/static/js/2.976b0a84.chunk.js",
+    "static/js/2.976b0a84.chunk.js.map": "/Pizza-App/static/js/2.976b0a84.chunk.js.map",
+    "static/js/3.89e803c3.chunk.js": "/Pizza-App/static/js/3.89e803c3.chunk.js",
+    "static/js/3.89e803c3.chunk.js.map": "/Pizza-App/static/js/3.89e803c3.chunk.js.map",
     "index.html": "/Pizza-App/index.html",
     "static/css/2.818011ed.chunk.css.map": "/Pizza-App/static/css/2.818011ed.chunk.css.map",
     "static/css/main.06f0d32d.chunk.css.map": "/Pizza-App/static/css/main.06f0d32d.chunk.css.map",
-    "static/js/2.43bc20ce.chunk.js.LICENSE.txt": "/Pizza-App/static/js/2.43bc20ce.chunk.js.LICENSE.txt",
+    "static/js/2.976b0a84.chunk.js.LICENSE.txt": "/Pizza-App/static/js/2.976b0a84.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Pizza-App/static/media/spectacle.6138051d.jpg",
     "static/media/pizza1-bg.65d15d65.jpg": "/Pizza-App/static/media/pizza1-bg.65d15d65.jpg",
     "static/media/pizza3.106f4f81.jpg": "/Pizza-App/static/media/pizza3.106f4f81.jpg",
     "static/media/pizza4.5a87c2e5.jpg": "/Pizza-App/static/media/pizza4.5a87c2e5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3617037b.js",
+    "static/js/runtime-main.369fd668.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.43bc20ce.chunk.js",
+    "static/js/2.976b0a84.chunk.js",
     "static/css/main.06f0d32d.chunk.css",
-    "static/js/main.e7f9f684.chunk.js"
+    "static/js/main.c38e974c.chunk.js"
   ]
 }
