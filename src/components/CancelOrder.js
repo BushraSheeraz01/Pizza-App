@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Button from 'react-bootstrap/Button';
+import Card from 'react-bootstrap/Card';
 
 
 
@@ -36,19 +37,35 @@ function CancelOrder() {
         <>
             <div style={{
                 display: "flex",
+                flexDirection: 'column',
+                alignItems: 'center',
+                justifyContent: "center",
                 padding: '30px 20px',
                 width: 'auto',
                 height: '-webkit-fill-available'
             }}>{orders.map((v, i) => {
-                return <div key={i} style={{backgroundColor: "#c1bebea1", color: "white", padding: "10px 20px", width: "max-content"}}>
-                    <div>Crust = {v.Crust}</div>
-                    <div>Flavor = {v.Flavor}</div>
-                    <div>Size ={v.Size}</div>
-                    <Button variant="secondary" onClick = {() => onClickCancel=(v.Order_ID)}>Cancel Order</Button>
-                    <br />
-                    <br />
+                return <div key={i} style={{ color: "white", margin: "20px", }}>
+                    {/* <div>Crust:  {v.Crust}</div>
+                            <div>Flavor: {v.Flavor}</div>
+                            <div>Size:   {v.Size}</div>
+                            
+                            <br />
+                            <br /> */}
+                    <Card border="dark" style={{ width: '18rem', backgroundColor: "#c1bebe54", textShadow: "2px 2px #212529" }}>
+                        <Card.Body>
+                            <Card.Text>Crust: {v.Crust}</Card.Text>
+                            <Card.Text>Flavor: {v.Flavor}</Card.Text>
+                            <Card.Text>Size: {v.Size}</Card.Text>
+                            <Button variant="dark" onClick={() => onClickCancel(v.Order_ID)}>Cancel Order</Button>
+                        </Card.Body>
+                    </Card>
                 </div>
+
             })}
+
+
+                <br />
+                ));
             </div>
         </>
     );

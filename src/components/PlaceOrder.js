@@ -44,7 +44,7 @@ function PlaceOrder() {
                 "Size": size,
                 "Table_No": 0,
             }
-            let token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MzEwODgzNjksIm5iZiI6MTYzMTA4ODM2OSwianRpIjoiMWRiYjdlMjctMmZlZi00ZGEzLWI1NzEtNzM2NGJhOGQ2OWNjIiwiZXhwIjoxNjMxMDg5MjY5LCJpZGVudGl0eSI6InRlc3QiLCJmcmVzaCI6ZmFsc2UsInR5cGUiOiJhY2Nlc3MifQ.MC5RwhMTsU2yr1H-GPTQ5IVXqSzRnSmaIOYjLT1eJug";
+            let token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MzEyODYxNzcsIm5iZiI6MTYzMTI4NjE3NywianRpIjoiZDA5ODZiZjgtNDIxZS00MDUyLTlkM2MtYjEyN2NkZDg5ODQyIiwiZXhwIjoxNjMxMjg3MDc3LCJpZGVudGl0eSI6InRlc3QiLCJmcmVzaCI6ZmFsc2UsInR5cGUiOiJhY2Nlc3MifQ.-IwQuJmzDqqSXypOLewkhBROlxeWGpaSKFm72vpw22I";
 
             const requestOptions = {
                 method: 'POST',
@@ -56,6 +56,7 @@ function PlaceOrder() {
                 .then(response => {
                     if (response.status == 201) {
                         alert('Your Order is sucessfully Submitted!')
+                        console.log("abc")
                     }
                 })
         }
