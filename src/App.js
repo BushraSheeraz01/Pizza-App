@@ -36,9 +36,9 @@ function App() {
               <Container>
                 <Navbar.Brand href="/">Pizza App</Navbar.Brand>
                 <Nav className="me-auto">
-                  <Nav.Link as={Link} to="./HomePage">Home</Nav.Link>
-                  <Nav.Link as={Link} to="./orderingPage">Place Order</Nav.Link>
-                  <Nav.Link as={Link} to="./viewOrder">View</Nav.Link>
+                  <Nav.Link as={Link} to="/HomePage">Home</Nav.Link>
+                  <Nav.Link as={Link} to="/orderingPage">Place Order</Nav.Link>
+                  <Nav.Link as={Link} to="/viewOrder">View</Nav.Link>
                 </Nav>
               </Container>
             </Navbar>
